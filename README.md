@@ -62,7 +62,7 @@ A modern, interactive task planning application built with React, TypeScript, an
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MubbashirAhmed123/task_planner.git
    cd task-planner
    ```
 
